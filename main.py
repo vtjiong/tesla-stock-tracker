@@ -28,7 +28,7 @@ difference_percentage = math.floor(difference_percentage)
 
 if difference > five_percent:
     news_params=params = {
-    "apiKey": "37aa1d87e80f46a58de4502cfd6ec3c7",
+    "apiKey": "apiKey",
     "q": COMPANY_NAME,
     "language": "en",
     "pageSize": 3,
